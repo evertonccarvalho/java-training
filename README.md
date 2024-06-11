@@ -6,6 +6,5 @@ Repositório de projetos de estudo sobre Java! Este repositório contém diverso
 
 - **CursoPOO/**: Projetos e exercícios relacionados ao curso de Programação Orientada a Objetos.
 - **EstruturasDeDados/**: Implementações e exercícios relacionados a estruturas de dados em Java.
-- **POO/**: Outros projetos e exemplos de Programação Orientada a Objetos.
 - **Supermarket/**: Projeto de exemplo para gerenciamento de um supermercado.
 - **Variaveis/**: Exercícios iniciais sobre variáveis e tipos de dados em Java.
