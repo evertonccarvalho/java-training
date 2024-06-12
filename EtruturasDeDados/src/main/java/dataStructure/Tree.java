@@ -63,7 +63,7 @@ public class Tree {
     }
 
     private void inOrder(final Node node) {
-        // R E D
+        // E R D
         if(node == null) return;
         inOrder(node.left);
         System.out.println(node.value);
